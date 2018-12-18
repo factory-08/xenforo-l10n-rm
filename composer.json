@@ -1,0 +1,36 @@
+{
+	"name": "metastore/xenforo-l10n-rm-russian",
+	"type": "xenforo-extension",
+	"description": "",
+	"license": "GPL-3.0-or-later",
+	"homepage": "https://webmasters.community/",
+	"keywords": [
+		"metadata",
+		"metastore",
+		"xenforo",
+		"russian",
+		"language",
+		"locale",
+		"localization",
+		"translation"
+	],
+	"authors": [
+		{
+			"name": "Kitsune Solar",
+			"email": "kitsune.solar@gmail.com",
+			"homepage": "https://kitsune.solar/",
+			"role": "Editor"
+		}
+	],
+	"support": {
+		"email": "support@webmasters.foundation",
+		"issues": "https://github.com/factory-08/xenforo-l10n-rm-russian/issues",
+		"forum": "https://webmasters.community/",
+		"wiki": "https://xenforo.webmasters.wiki/",
+		"source": "https://github.com/factory-08/xenforo-l10n-rm-russian"
+	},
+	"config": {
+		"optimize-autoloader": true,
+		"prepend-autoloader": false
+	}
+}
